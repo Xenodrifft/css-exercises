@@ -1,0 +1,23 @@
+/* Odd numbered styling */
+.odd {
+    background-color: rgba(255, 149, 172, 0.726);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Second element */
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Third element */
+.third {
+    font-size: 24px;
+}
+
+/* Fourth element */
+#element4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
